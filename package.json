@@ -1,6 +1,6 @@
 {
-  "name": "poke-vue",
-  "version": "0.1.0",
+  "name": "pokeapi-vue",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "vue-cli-service build",
